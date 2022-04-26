@@ -10,3 +10,5 @@ We use the random forest and the logistic regression to classify if a house is i
 
 Clustering:
 We try to identify 3 types of houses, low, medium, and high level
+
+The analysis is performed using spark framework and is proposed in 2 solutions, the first file "ML_analysis" is a classical implementation while the second "Analysis_OOP" is object-oriented code
